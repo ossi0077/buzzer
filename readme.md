@@ -1,23 +1,24 @@
-# buzzer
-	- ¿øÇÏ´Â ÁÖÆÄ¼ö °ªÀ» ÀÎ°¡ÇÏ¿© ¼Ò¸®¸¦ ³»´Â ¼ÒÀÚ
-	- ±Ø¼ºÀÌ Á¸ÀçÇÏ¹Ç·Î ¿¬°á½Ã ÁÖÀÇ ÇÊ¿ä
+ï»¿# buzzer
+	- ì›í•˜ëŠ” ì£¼íŒŒìˆ˜ ê°’ì„ ì¸ê°€í•˜ì—¬ ì†Œë¦¬ë¥¼ ë‚´ëŠ” ì†Œìž
+	- ê·¹ì„±ì´ ì¡´ìž¬í•˜ë¯€ë¡œ ì—°ê²°ì‹œ ì£¼ì˜ í•„ìš”
+	- ï»¿3.3V ~ 5V ì—ì„œ ìž‘ë™
 
-## Âü°íÀÚ·á
+## ì°¸ê³ ìžë£Œ
 ![scale_hz](./scale_hz.png)
 
-## ÇÊ¿ä ÇÏµå¿þ¾î
+## í•„ìš” í•˜ë“œì›¨ì–´
 	- buzzer
 	- Arduino UNO
 	- UNO cable
 	- breadboard
 	- M-M cable(2ea)
 
-## ¿¬°á
-	- D7´ÜÀÚ ´ë½Å ´Ù¸¥ µðÁöÅÐ ÇÉ¿¡ ¿¬°áÇØµµ ¹«¹æ
+## ì—°ê²°
+	- D7ë‹¨ìž ëŒ€ì‹  ë‹¤ë¥¸ ë””ì§€í„¸ í•€ì— ì—°ê²°í•´ë„ ë¬´ë°©
 |buzzer|Audino UNO|
 |--|--|
-|+´ÜÀÚ|D7(º¯°æ °¡´É)|
-|-´ÜÀÚ|GND|
+|+ë‹¨ìž|D7(ë³€ê²½ ê°€ëŠ¥)|
+|-ë‹¨ìž|GND|
 
-## example_code1.cpp (À½°è ¼Ò¸® Å×½ºÆ®)
-## example_code2.cpp (°£´ÜÇÑ ¸á·Îµð)
+## example_code1.cpp (ìŒê³„ ì†Œë¦¬ í…ŒìŠ¤íŠ¸)
+## example_code2.cpp (ê°„ë‹¨í•œ ë©œë¡œë””)
